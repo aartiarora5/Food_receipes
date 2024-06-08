@@ -11,6 +11,9 @@
   .logo {
     font-size: 1.5em;
   }
+  .user-name {
+    font-size: 1em;
+  }
   
   nav a {
     color: #fff;

@@ -1,27 +1,26 @@
 
 .blog-post {
-    padding: 20px;
-    color: rgb(255, 0, 140);
-    margin: 20px 0;
-    border: 2px solid #FF6F61;
-    border-radius: 5px;
-    background-color: #fff8e75b; 
-  }
-  
-  .blog-post img {
-    width: 100%;
-    height: auto;
-    margin-bottom: 10px;
-  }
-  
-  .meta {
-    font-size: 0.9em;
-    color: #888; 
-  }
-  
-  hr {
-    margin-top: 20px;
-    border: none;
-    border-top: 1px solid #ddd; 
-  }
-  
+  padding: 20px;
+  color: rgb(255, 0, 140);
+  margin: 20px 0;
+  border: 2px solid #FF6F61;
+  border-radius: 5px;
+  background-color: #fff8e75b; 
+}
+
+.blog-post img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.meta {
+  font-size: 0.9em;
+  color: #888; 
+}
+
+hr {
+  margin-top: 20px;
+  border: none;
+  border-top: 1px solid #ddd; 
+}
